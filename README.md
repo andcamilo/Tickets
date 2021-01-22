@@ -1,5 +1,13 @@
 # Tickets API
 
+#Dockerfile 
+
+
+
+
+# API 
+
+
 Esta api funciona para la creación, lectura, actualización y eliminación de tickets.
 
 Api la cual puede ser consumida localmente por el puerto 3000 con la siguiente url  http://localhost:3000/tickets/
